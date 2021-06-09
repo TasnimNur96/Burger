@@ -292,7 +292,7 @@ Header{
 }
 .form-img-plate{
     position: absolute;
-    top: 20%;
+    top: 10%;
     left: 78%;
 
 }
@@ -325,7 +325,7 @@ Header{
     padding: 0;
     margin: 0;
     background: #ce2121;
-    padding: 12px 86px;
+    padding: 12px 64px;
     border: none;
     color: #fff;
     border-radius: 4;
@@ -344,6 +344,7 @@ Header{
     background-size: cover;
     background-position: center;
     min-height: 70vh;
+    overflow-x: hidden;
 
 }
 .logo-img img{
